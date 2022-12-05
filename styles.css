@@ -1,0 +1,28 @@
+#display{ 
+    display: flex  ;
+    border: 2px  solid red ;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+   background-color:lightcoral;
+    margin: 50px 200px 50px 200px;
+
+   
+    }
+    a:link{color: coral;}
+    a:hover{ color: chartreuse;}
+ a:visited{color: mediumblue;}
+    a:active{color: gold;} 
+   
+    
+ 
+#display li{
+    margin-left: 120px;
+    color: aqua;
+}
+
+.font{
+    font-family: 'roboto',sans-serif;
+}
+html{background-color: bisque;}
